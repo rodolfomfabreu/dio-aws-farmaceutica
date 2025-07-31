@@ -32,9 +32,13 @@
 ## 📊 Relatório | Report
 
 **PT-BR:**
-RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-Data: 30/07/2025
-Empresa: Dio Farmaceutica
+
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS 
+
+Data: 30/07/2025 
+
+Empresa: Dio Farmaceutica 
+
 Responsável: Rodolfo Marques Ferreira de Abreu – Desenvolvedor de Software - Java
 
 ### 📋 Introdução
@@ -67,10 +71,18 @@ A implementação dos serviços Amazon S3, Amazon RDS e AWS Lambda com API Gatew
 ### 🔮 Recomendações Futuras
 Recomenda-se a continuidade da adoção de serviços AWS, especialmente para áreas como machine learning (previsão de demanda), segurança com AWS WAF e expansão de APIs para novos parceiros.
 
+
+
+-------
+
 **EN:**
+
 AWS SERVICES IMPLEMENTATION REPORT
+
 Date: 07/30/2025
+
 Company: Dio Farmaceutica
+
 Responsible: Rodolfo Marques Ferreira de Abreu – Software Developer - Java
 
 ### 📋 Introduction
